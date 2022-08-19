@@ -1,0 +1,11 @@
+Binary Search
+Greedy:
+	When to Use:
+		choice property: A global optimum can be arrived at by selecting a local optimum
+		Optimal Substructure: An optimal to the problem contains an optimal solution to subproblems
+	Applications:
+		1. Activity Selection Problem
+		2. Huffman Coding
+		3. Job Sequencing Problem
+		4. Fractional Knapsack Problem
+		5. Prim's Minimum Spanning Tree
